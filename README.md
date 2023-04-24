@@ -1,4 +1,8 @@
+<div align=center> 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JANG%20SUBEEN&fontSize=50&animation=fadeIn&fontAlignY=38)
+
+
 
 #### 👋Hi there, my name is Subeen-Jang
 
@@ -12,6 +16,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&logoWidt=40"/>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white&logoWidt=40"/>&nbsp;
 <img src="https://img.shields.io/badge/spring-success?style=flat-square&logo=spring&logoColor=white&logoWidt=40"/>&nbsp;
+  
+</div>  
+  
 <!--![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn)-->
 
 
