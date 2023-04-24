@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,14,5,30&height=200&text=JANG%20SUBEEN&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JANG%20SUBEEN&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 
+<!--![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn)-->
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0,14,14,5,30)
 
 
 <!--
