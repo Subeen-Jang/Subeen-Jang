@@ -1,4 +1,4 @@
-<div align=center> 
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JANG%20SUBEEN&fontSize=50&animation=fadeIn&fontAlignY=38)
 
@@ -21,7 +21,7 @@
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subeen-Jang&show_icons=true&theme=swift)
 
-</div>  
+
 
 <!--![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn)-->
 
