@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JANG%20SUBEEN&fontSize=50&animation=fadeIn&fontAlignY=38)
 
-#### 👋Hello World! My name is Subeen-Jang
+#### 👋Hi there, my name is Subeen-Jang
 
 
----------
 
-
+#
 #### 🛠️Tech Stack🛠️
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&logoWidt=40"/>&nbsp;
