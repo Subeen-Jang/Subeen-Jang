@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/spring-success?style=flat-square&logo=spring&logoColor=white&logoWidt=40"/>&nbsp;
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subeen-Jang&show_icons=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subeen-Jang&show_icons=true)-->
 
 
 
