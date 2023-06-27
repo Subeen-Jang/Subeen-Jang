@@ -4,7 +4,7 @@
 
 
 
-#### 👋Hi there, my name is Subeen-Jang(
+#### 👋Hi there, my name is Subeen-Jang
 
 
 #
